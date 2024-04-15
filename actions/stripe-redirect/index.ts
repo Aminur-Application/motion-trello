@@ -53,7 +53,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
             price_data: {
               currency: "USD",
               product_data: {
-                name: "Taskify Pro",
+                name: "In-Retrospect Pro",
                 description: "Unlimited boards for your organization",
               },
               unit_amount: 2000,
