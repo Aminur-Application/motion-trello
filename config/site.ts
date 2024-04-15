@@ -1,4 +1,4 @@
 export const siteConfig = {
-  name: "Motion-Trello",
+  name: "In-Retrospect",
   description: "Collaborate, manage projects, and reach new productivity peaks",
 };
